@@ -3,7 +3,7 @@ library(rworldmap)
 library(rworldxtra)
 
 # Input file
-file_path = '/Users/nurkaraca/Desktop/Projects/Project-LH/hotels_information.csv'
+file_path = ''
 
 # Load data
 table <- read.csv(file_path, header = TRUE)
